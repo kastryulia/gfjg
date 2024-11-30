@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 50px; 
+    text-align: center; 
+}
+
+tableP{
+    border-collapse: collapse; 
+    border: 1px solid lightgrey;
+    margin:autocenter; 
+    font-size: 20px;
+}
+
+.fff {
+    background-color: olive; 
+    color: white; 
+    border: 1px solid lightgrey;
+}
